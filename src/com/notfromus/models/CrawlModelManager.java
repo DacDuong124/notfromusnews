@@ -26,7 +26,7 @@ public class CrawlModelManager implements CrawlModel {
      * @param HTML is a string
      * <p>
      * <p>
-     * Written by Cao Minh - s3818272 14/8/21
+     * Written by Cao Minh - s3818272 14/8/21 CHANGED
      */
 
     List<ArticleModel> articles = new ArrayList<>();
